@@ -3,7 +3,7 @@ I'm quite a lot of things: a Data Science Student 👨‍💻, UPV Investment Cl
 Also passionate about Economics 🌱📈, Sport and AI 🧠.<br>
 I use Python, SQL and R and a bit of JavaScript on my work <br> Constantly learning 📈
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jilaiqian) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/jilaiqian) 
 
 You can also contact me sending an 📧 to ji.laiqian@gmail.com 
