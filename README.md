@@ -1,7 +1,11 @@
 # 💫 About Me:
-I'm quite a lot of things: a Data Science Student 👨‍💻, UPV Investment Club member and SEO Analyst at Smarktek <br>
-Also passionate about Economics 🌱📈, Sport and AI 🧠.<br>
-I use Python, SQL and R and a bit of JavaScript on my work <br> Constantly learning 📈
+- 🔭 I’m currently working on myself
+- :heart: My favorite language is Python, but I also use R, SQL and JavaScript
+- 🌱 I’m currently learning Data Science, Digital Marketing and Web3
+- 👯 I’m always looking to collaborate with anyone that has ambition
+- 💬 Ask me about anything, I'll be glad to help you
+- 💜 Interests: Data Science, Sports, Crypto, Investments, Digital Marketing
+I'm a Data Science Student 👨‍💻, UPV Investment Club member and SEO Analyst at Smarktek <br>
 
 # 🌐 Socials:
 <a href="https://www.linkedin.com/in/jilaiqian"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
