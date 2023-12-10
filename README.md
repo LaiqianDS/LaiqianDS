@@ -9,13 +9,13 @@
     「 I'm a Data Science Student 👨‍💻 from <b>Valencia</b> 」
   </samp>
 </p>
-- 🔭 I’m currently working on myself
-- :heart: My favorite language is Python, but I also use R, SQL and JavaScript
-- 🌱 I’m currently learning Data Science, Digital Marketing and Web3
-- 👯 I’m always looking to collaborate with anyone that has ambition
-- 💬 Ask me about anything, I'll be glad to help you
-- 💜 Interests: Data Science, Sports, Crypto, Investments, Digital Marketing  
-- 💬 Im also: UPV Investment Club member & Software Dev and ACM UPV member
+- 🔭 I’m currently working on myself  <br>
+- :heart: My favorite language is Python, but I also use R, SQL and JavaScript <br>
+- 🌱 I’m currently learning Data Science, Digital Marketing and Web3  <br>
+- 👯 I’m always looking to collaborate with anyone that has ambition  <br>
+- 💬 Ask me about anything, I'll be glad to help you  <br>
+- 💜 Interests: Data Science, Sports, Crypto, Investments, Digital Marketing  <br>
+- 💬 Im also: UPV Investment Club member & Software Dev and ACM UPV member  <br>
 
 # 🌐 Socials:
 <a href="https://www.linkedin.com/in/jilaiqian"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
