@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Data Science, Digital Marketing and Web3
 - 👯 I’m always looking to collaborate with anyone that has ambition
 - 💬 Ask me about anything, I'll be glad to help you
-- 💜 Interests: Data Science, Sports, Crypto, Investments, Digital Marketing
+- 💜 Interests: Data Science, Sports, Crypto, Investments, Digital Marketing  
 I'm a Data Science Student 👨‍💻, UPV Investment Club member & Software Dev and ACM UPV member<br>
 
 # 🌐 Socials:
