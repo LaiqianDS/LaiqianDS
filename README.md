@@ -15,7 +15,7 @@
 - 👯 I’m always looking to collaborate with anyone that has ambition  <br>
 - 💬 Ask me about anything, I'll be glad to help you  <br>
 - 💜 Interests: Data Science, Sports, Crypto, Investments, Digital Marketing  <br>
-- 💬 Im also: UPV Investment Club member & Software Dev and ACM UPV member  <br>
+- 💬 Im also: Founder of Sigma Data Club and UPV Investment Club member & Software Dev <br>
 
 # 🌐 Socials:
 <a href="https://www.linkedin.com/in/jilaiqian"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
