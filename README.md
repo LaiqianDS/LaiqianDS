@@ -12,10 +12,9 @@
 </p>
 - 🔭 I’m currently working on myself  <br>
 - :heart: My favorite language is Python, but I also use R, SQL and JavaScript <br>
-- 🌱 I’m currently learning Data Science, Digital Marketing and Web3  <br>
-- 👯 I’m always looking to collaborate with anyone that has ambition  <br>
+- 🌱 I’m currently learning Data Science  <br>
 - 💬 Ask me about anything, I'll be glad to help you  <br>
-- 💜 Interests: Data Science, Sports, Crypto, Investments, Digital Marketing  <br>
+- 💜 Interests: Data Science, Sports, Crypto, Investments <br>
 - 💬 Im also: Founder of Sigma Data Club and UPV Investment Club member & Software Dev <br>
 
 # 🌐 Socials:
