@@ -24,7 +24,6 @@ I also enjoy communicating ideas, creating content and sharing what I learn.
 
 - AI Engineer at **[Solver IA](https://iasolver.es/)**, Valencia.
 - BSc Data Science at **UPV**.
-- 1st place at the **Mercadona Hackathon** 2025.
 - Founder of **Sigma Data Club**.
 - Outside of screens: reading, photography and sports.
 
