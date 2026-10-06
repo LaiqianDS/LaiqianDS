@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 340" width="840" height="340" role="img" aria-labelledby="title desc">
+  <title id="title">Laiqian Ji - AI Engineer</title>
+  <desc id="desc">Terminal card: AI Engineer at Solver IA in Valencia, BSc Data Science at UPV.</desc>
+  <style>
+    text { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 15px; fill: #F1F4F7; }
+    .dim { fill: #8B95A5; }
+    .accent { fill: #23B5FF; }
+    .line { animation: show .3s both; }
+    .cursor { animation: blink 1.1s steps(1) infinite; }
+    @keyframes show { from { opacity: 0; } }
+    @keyframes blink { 50% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) { .line, .cursor { animation: none; } }
+  </style>
+
+  <rect x="1" y="1" width="838" height="338" rx="12" fill="#0C1118" stroke="#2A3340" stroke-width="2"/>
+  <circle cx="26" cy="23" r="5" fill="#2A3340"/>
+  <circle cx="44" cy="23" r="5" fill="#2A3340"/>
+  <circle cx="62" cy="23" r="5" fill="#23B5FF"/>
+  <text x="420" y="28" text-anchor="middle" class="dim">lai@lqj: ~</text>
+  <path d="M1 44H839" stroke="#2A3340" stroke-width="2"/>
+
+  <text class="line" style="animation-delay:.2s" x="28" y="78"><tspan class="accent">$</tspan> whoami</text>
+  <text class="line" style="animation-delay:.8s" x="28" y="102">laiqian ji <tspan class="dim">· almost everyone calls me</tspan> lai</text>
+
+  <text class="line" style="animation-delay:1.6s" x="28" y="150"><tspan class="accent">$</tspan> cat about.yaml</text>
+  <g class="line" style="animation-delay:2.2s">
+    <text x="28" y="174" class="accent">role:</text>
+    <text x="148" y="174">AI Engineer @ Solver IA</text>
+  </g>
+  <g class="line" style="animation-delay:2.5s">
+    <text x="28" y="198" class="accent">based_in:</text>
+    <text x="148" y="198">Valencia</text>
+  </g>
+  <g class="line" style="animation-delay:2.8s">
+    <text x="28" y="222" class="accent">education:</text>
+    <text x="148" y="222">BSc Data Science, UPV</text>
+  </g>
+  <g class="line" style="animation-delay:3.1s">
+    <text x="28" y="246" class="accent">builds:</text>
+    <text x="148" y="246">[LLMs, RAG, agents, classical ML]</text>
+  </g>
+  <g class="line" style="animation-delay:3.4s">
+    <text x="28" y="270" class="accent">offline:</text>
+    <text x="148" y="270">[reading, photography, sports]</text>
+  </g>
+
+  <g class="line" style="animation-delay:4s">
+    <text x="28" y="316" class="accent">$</text>
+    <rect class="cursor" x="46" y="303" width="9" height="17" fill="#23B5FF"/>
+  </g>
+</svg>
